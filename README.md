@@ -4,7 +4,7 @@
 
 Este un repositorio para probar que la consola de comandos de GIT esta instalada correctamente
 
-####Windows
+#### Windows
 Para probar la instalacion
 
 1. Abra la consola de comandos
