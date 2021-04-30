@@ -1,6 +1,6 @@
-
 ### Hello-world
-![](https://github.com/fgalanjmz/fgalanSoft-logo1.png)
+![](https://github.com/fgalanjmz/Hello-world/blob/041b7b31888c01869b6107c7adc8566841313f32/fgalanSoft-logo1.png)
+
 
 Este un repositorio para probar que la consola de comandos de GIT esta instalada correctamente
 
