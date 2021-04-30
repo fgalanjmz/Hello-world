@@ -13,15 +13,15 @@ Para probar la instalacion
 2. Vaya al directorio donde se encuentra el script ***hello.cmd***
 `$cd \mis-programas\git-scripts`
 
-3. Ejecute el script ***hello.cmd***
-`$hello`
+3. Ejecute el script 
+`$hello.cmd`
 
-4. El script ***hello.cmd*** asume 
+4. El script asume: 
    * Si existe el directorio ***C:/data/github/hello-world*** se borran todos los archivos
    * Si no existe el directorio lo crea
 
-5. El script ejecuta el comando ***hello.cmd*** 
-`$ hello`
+5. El script ejecuta el comando 
+`$ git clone https://github.com/fgalanjmz/Hello-world.git`
 
 6. Descarga el repositorio
 
