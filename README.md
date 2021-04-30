@@ -1,4 +1,30 @@
-# Hello-world
-Hello world
 
-This is a new file form in branch "readme-edits"
+### Hello-world
+![](https://github.com/fgalanjmz/fgalanSoft-logo1.png)
+
+Este un repositorio para probar que la consola de comandos de GIT esta instalada correctamente
+
+####Windows
+Para probar la instalacion
+
+1. Abra la consola de comandos
+`$Cmd`
+
+2. Vaya al directorio donde se encuentra el script ***hello.cmd***
+`$cd \mis-programas\git-scripts`
+
+3. Ejecute el script ***hello.cmd***
+`$hello`
+
+4. El script ***hello.cmd*** asume 
+   * Si existe el directorio ***C:/data/github/hello-world*** se borran todos los archivos
+   * Si no existe el directorio lo crea
+
+5. El script ejecuta el comando ***hello.cmd*** 
+`$ hello`
+
+6. Descarga el repositorio
+
+
+
+###End
